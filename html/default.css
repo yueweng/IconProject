@@ -1,0 +1,14 @@
+		body {
+			margin:0;
+			font-family:Arial, Helvetica, sans-serif !important;
+			font-size:12px !important;
+			color: #232323;
+			text-align:center;
+			background-image:none !important;
+		}
+		
+		header
+		{
+			font-size: 20px;
+			color: blue;
+		}
